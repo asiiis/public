@@ -83,8 +83,8 @@
       "sizes": "360x640"
     }
   ],
-  "start_url": "http://localhost/pwa1/",
-  "scope": "http://localhost/pwa1/",
+  "start_url": "https://asiiis.github.io/public/pwa/",
+  "scope": "https://asiiis.github.io/public/pwa/",
   "display": "standalone",
   "background_color": "#2196F3",
   "theme_color": "#2196F3"
