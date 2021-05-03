@@ -1,7 +1,7 @@
 {
-  "name": "The Air Horner",
-  "short_name": "Airhorner",
-  "description": "The world's best airhorner, and it's free",
+  "name": "PWA TEST",
+  "short_name": "PWA",
+  "description": "FREE PWA FOR WEB",
   "icons": [
     {
       "src": "images/48x48.png",
